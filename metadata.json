@@ -1,0 +1,6 @@
+{
+  "name": "VVF AI File Manager",
+  "description": "Privacy-first, Offline-first AI-powered File Manager for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

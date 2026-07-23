@@ -1,0 +1,1 @@
+sed -i 's/if ((storedHash.isNotEmpty() if (storedHash.isNotEmpty() && inputHash == storedHash) {if (storedHash.isNotEmpty() && inputHash == storedHash) { inputHash == storedHash) || pin == "BIOMETRIC") {/if ((storedHash.isNotEmpty() \&\& inputHash == storedHash) || pin == "BIOMETRIC") {/g' /app/applet/app/src/main/java/com/example/ui/viewmodel/FileManagerViewModel.kt
